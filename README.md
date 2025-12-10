@@ -1,5 +1,7 @@
 # GaAs Luttinger Hamiltonian Band Structure and DOS
 
+> *Check figures folder for png of output figures.*
+
 This project computes:
 
 - 6×6 Luttinger Hamiltonian for GaAs
