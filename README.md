@@ -1,6 +1,6 @@
 # GaAs Luttinger Hamiltonian Band Structure and DOS
 
-![Description of Image](figures/demo_screenshot.png)
+![Description of Image](figures/Electronic_Band_Structure_GaAs.png)
 
 **Check figures folder for all .pngs of output figures.**
 
