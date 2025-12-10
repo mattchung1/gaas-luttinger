@@ -1,6 +1,6 @@
 # GaAs Luttinger Hamiltonian Band Structure and DOS
 
-> *Check figures folder for png of output figures.*
+**Check figures folder for png of output figures.**
 
 This project computes:
 
